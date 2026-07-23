@@ -17,7 +17,7 @@ Our research integrates environmental engineering, bioenergy technologies, and b
 [Explore Our Research](/research/){:.button}
 ---
 
-## Research Areas
+## Research Highlights
 
 {% include feature.html
   title="Bioenergy"
